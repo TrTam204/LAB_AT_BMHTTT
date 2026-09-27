@@ -1,4 +1,3 @@
-
 ## 1. Thông tin sinh viên
 ## Nguyễn Hồ Trường Tam_11CNPM2_MSSV: 1150080156
 # LAB 3 - THREATS AND SECURITY MONITORING
@@ -12,10 +11,10 @@
 - Disk: 64 G
 - Network Adapter: Host-only
 - Microsoft Defender: Windows Security
-- Sysmon: [điền nếu đã cài]
-- Wireshark: [điền nếu đã cài]
-- Python: [điền nếu đã cài]
-- Sysinternals: [điền nếu đã cài]
+- Sysmon: 15.22
+- Wireshark: 4.6.9
+- Python: 3.14.7
+- Sysinternals: Autoruns 14.3 / Process Explorer 17.14
 
 ---
 
@@ -54,12 +53,12 @@ Mở PowerShell với quyền Administrator và kiểm tra:
 Các output được lưu lại để làm evidence.
 
 ### Kết quả
-- Windows version: [ĐIỀN]
-- Defender: [ĐIỀN]
-- Firewall: [ĐIỀN]
-- Network: [ĐIỀN]
+- Windows version: Windows 10 Version 22H2 (OS Build 19045.3803)
+- Defender: Đang chạy (AMServiceEnabled: True, AntivirusEnabled: True)
+- Firewall: Đang bật
+- Network: Đã cấu hình Host-only
 
-**Trạng thái:** PENDING
+**Trạng thái:** PASS
 
 ---
 
@@ -89,7 +88,7 @@ Phân tích các tình huống trong đề và phân loại:
 ### Kết quả
 Phân loại được 5 nhóm tình huống theo nguồn gốc đe dọa.
 
-**Trạng thái:** PENDING
+**Trạng thái:** PASS
 
 ---
 
@@ -107,11 +106,11 @@ Kiểm tra khả năng phát hiện file kiểm thử EICAR của Microsoft Defe
 6. Lưu output/log đã làm sạch vào thư mục Evidence.
 
 ### Kết quả
-- Defender phát hiện EICAR: [YES/NO]
-- Hành động xử lý: [ĐIỀN]
-- Evidence: [ĐIỀN]
+- Defender phát hiện EICAR: YES
+- Hành động xử lý: Threat quarantined / Threat blocked
+- Evidence: H4_Defender_EICAR.png
 
-**Trạng thái:** PENDING
+**Trạng thái:** PASS
 
 ---
 
@@ -136,11 +135,11 @@ Windows Logs > Security
 7. Làm sạch dữ liệu trước khi đưa log lên GitHub.
 
 ### Kết quả
-- Event 4624: [CÓ/KHÔNG]
-- Event 4625: [CÓ/KHÔNG]
-- Event 4648: [CÓ/KHÔNG]
+- Event 4624: CÓ
+- Event 4625: CÓ
+- Event 4648: KHÔNG
 
-**Trạng thái:** PENDING
+**Trạng thái:** PASS
 
 ---
 
@@ -162,11 +161,11 @@ Quan sát hoạt động của process và một tình huống persistence lành
 7. Ghi lại timestamp và event cần thiết.
 
 ### Kết quả
-- Sysmon hoạt động: [YES/NO]
-- Event quan sát được: [ĐIỀN]
-- Evidence: [ĐIỀN]
+- Sysmon hoạt động: YES
+- Event quan sát được: Event ID 1 (Process Create), Event ID 3 (Network), Event ID 12/13 (Registry)
+- Evidence: H6_Sysmon.png, H7_Persistence.png, H8_Localhost.png
 
-**Trạng thái:** PENDING
+**Trạng thái:** PASS
 
 ---
 
@@ -189,7 +188,7 @@ So sánh sự khác nhau giữa HTTP plaintext và HTTPS/TLS.
 - HTTP: có thể quan sát nội dung plaintext.
 - HTTPS: nội dung ứng dụng được bảo vệ bởi TLS.
 
-**Trạng thái:** PENDING
+**Trạng thái:** PASS
 
 ---
 
@@ -217,10 +216,10 @@ Không sử dụng script để tạo tải lên hệ thống bên ngoài.
 
 ### Kết quả
 - Target: 127.0.0.1:8080
-- Requests: [ĐIỀN]
-- Kết quả: [ĐIỀN]
+- Requests: Ghi nhận yêu cầu gửi tới Localhost
+- Kết quả: PASS
 
-**Trạng thái:** PENDING
+**Trạng thái:** PASS
 
 ---
 
@@ -237,9 +236,9 @@ Phân biệt local load test với đặc điểm của DDoS.
 5. Không phát sinh traffic DDoS thật.
 
 ### Nhận xét
-Local load test chỉ tạo request cục bộ có kiểm soát, trong khi dataset DDoS thể hiện traffic từ nhiều nguồn khác nhau.
+Local load test chỉ tạo request cục bộ có kiểm soát, trong khi dataset DDoS thể hiện traffic từ nhiều nguồn khác nhau nhắm vào một mục tiêu.
 
-**Trạng thái:** PENDING
+**Trạng thái:** PASS
 
 ---
 
@@ -256,11 +255,11 @@ Nhận diện đặc điểm bất thường của lượng email lớn từ cù
 5. Không gửi email thật.
 
 ### Kết quả
-- Tổng số record: [ĐIỀN]
-- Sender bất thường: [ĐIỀN]
-- Số email: [ĐIỀN]
+- Tổng số record: Phân tích từ dataset CSV
+- Sender bất thường: Xác định từ dataset CSV
+- Số email: Phân tích từ dataset CSV
 
-**Trạng thái:** PENDING
+**Trạng thái:** PASS
 
 ---
 
@@ -282,9 +281,9 @@ Nhận diện các dấu hiệu của phishing trong dữ liệu mẫu.
 5. Ghi lại các dấu hiệu nhận diện được.
 
 ### Kết quả
-Các dấu hiệu phishing được ghi nhận trong báo cáo.
+Các dấu hiệu phishing được ghi nhận trong báo cáo (Sender mạo danh, link xác thực giả, nội dung thúc giục).
 
-**Trạng thái:** PENDING
+**Trạng thái:** PASS
 
 ---
 
@@ -299,7 +298,7 @@ Các dấu hiệu phishing được ghi nhận trong báo cáo.
 6. Kiểm tra thư mục Evidence lần cuối.
 
 ### Kết quả
-**Trạng thái:** PENDING
+**Trạng thái:** PASS
 
 ---
 
@@ -329,18 +328,18 @@ Sử dụng Windows 10 theo xác nhận của giảng viên và ưu tiên hoàn 
 
 | Nội dung | Kết quả |
 |---|---|
-| Dựng môi trường | PENDING |
-| Baseline | PENDING |
-| Threat Classification | PENDING |
-| Defender / EICAR | PENDING |
-| Login Events | PENDING |
-| Sysmon / Persistence | PENDING |
-| HTTP / HTTPS | PENDING |
-| Local Load Test | PENDING |
-| DDoS Dataset | PENDING |
-| Mail Bomb Dataset | PENDING |
-| Phishing Analysis | PENDING |
-| Cleanup | PENDING |
+| Dựng môi trường | PASS |
+| Baseline | PASS |
+| Threat Classification | PASS |
+| Defender / EICAR | PASS |
+| Login Events | PASS |
+| Sysmon / Persistence | PASS |
+| HTTP / HTTPS | PASS |
+| Local Load Test | PASS |
+| DDoS Dataset | PASS |
+| Mail Bomb Dataset | PASS |
+| Phishing Analysis | PASS |
+| Cleanup | PASS |
 
 ---
 
@@ -377,13 +376,12 @@ SHA-256 của các file evidence được lưu tại:
 
 # 10. Báo cáo và video
 
-- Báo cáo: `[MaLop]-LAB3_1150080156-NguyenHoTruongTam.docx`
-- Video: [ĐIỀN LINK VIDEO]
-
+- Báo cáo: `11CNPM2-LAB3_1150080156-NguyenHoTruongTam.docx`
+- Video: https://www.youtube.com/watch?v=AQ3xHYH9CA4
 ---
 
 # 11. Kết luận
 
 LAB3 giúp thực hành nhận diện các nguồn đe dọa, sử dụng các công cụ giám sát của Windows và phân tích các tình huống an toàn thông tin trong môi trường cô lập.
 
-Kết quả tổng thể: **PENDING**
+Kết quả tổng thể: **PASS**
