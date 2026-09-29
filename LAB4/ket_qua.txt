@@ -1,0 +1,1 @@
+# Dữ liệu Nmap Normal Text sẽ cập nhật sau khi chạy lệnh: nmap -sV -O 192.168.56.101 -oN ket_qua.txt

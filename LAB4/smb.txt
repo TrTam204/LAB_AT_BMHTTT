@@ -1,0 +1,1 @@
+# Dữ liệu Grepable sẽ cập nhật sau khi chạy lệnh: nmap -p 445 192.168.56.0/24 -oG smb.txt

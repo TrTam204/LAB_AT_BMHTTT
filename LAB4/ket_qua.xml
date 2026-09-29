@@ -1,0 +1,2 @@
+<!-- Dữ liệu Nmap XML sẽ cập nhật sau khi chạy lệnh: nmap -sV -O 192.168.56.101 -oX ket_qua.xml -->
+<nmaprun></nmaprun>
