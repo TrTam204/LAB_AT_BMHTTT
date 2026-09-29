@@ -1,4 +1,4 @@
 Filename,SHA256_Hash,Description
-ket_qua.txt,[Chờ cập nhật mã băm thật],Ket qua quet Nmap duoi dang Normal Text
-ket_qua.xml,[Chờ cập nhật mã băm thật],Ket qua quet Nmap duoi dang XML
-smb.txt,[Chờ cập nhật mã băm thật],Danh sach cac may mo cong 445 SMB
+ket_qua.txt,f151155645e5d4c1d0adfe06d9cfe451d912ca70a99315f9bafb590b6a54bdf6,Ket qua quet Nmap duoi dang Normal Text
+ket_qua.xml,5d5421aacbce8b19bd481cdd7a8d61c9d3f09d1c40997e790de7d0df8696b43c,Ket qua quet Nmap duoi dang XML
+smb.txt,f2490b6b5d41d10db198d9cee896f9518752636b25880835c9d92e15a9f50741,Danh sach cac may mo cong 445 SMB

@@ -1,1 +1,8 @@
-# Dữ liệu Grepable sẽ cập nhật sau khi chạy lệnh: nmap -p 445 192.168.56.0/24 -oG smb.txt
+# Nmap 7.99 scan initiated Tue Sep 29 04:28:11 2026 as: /usr/lib/nmap/nmap -p 445 -oG smb.txt 192.168.56.0/24
+Host: 192.168.56.1 ()	Status: Up
+Host: 192.168.56.1 ()	Ports: 445/filtered/tcp//microsoft-ds///
+Host: 192.168.56.100 ()	Status: Up
+Host: 192.168.56.100 ()	Ports: 445/closed/tcp//microsoft-ds///
+Host: 192.168.56.101 ()	Status: Up
+Host: 192.168.56.101 ()	Ports: 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Sep 29 04:28:15 2026 -- 256 IP addresses (3 hosts up) scanned in 4.16 seconds
