@@ -1,5 +1,6 @@
 ## Nguyễn Hồ Trường Tam_11CNPM2_MSSV 1150080156
 # BÁO CÁO LAB: CẤU HÌNH TƯỜNG LỬA PFSENSE
+# link video: https://youtu.be/VNAbaU2CN_E?si=-yRjbO7pXUpJqzC_
 - **Tên lab**: Thiết lập mô hình Firewall pfSense (Lab 5)
 - **Phiên bản môi trường**: 
   - Ảo hóa: Oracle VirtualBox (hoặc VMware)
