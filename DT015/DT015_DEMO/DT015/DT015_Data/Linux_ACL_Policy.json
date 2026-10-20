@@ -1,0 +1,9 @@
+{
+    "version": "1.0",
+    "platform": "Linux",
+    "resource": "Confidential/salary.txt",
+    "acl_type": "Access",
+    "principal_type": "other",
+    "forbidden_rights": ["r", "w"],
+    "reason": "Other users must not read or write sensitive salary data"
+}

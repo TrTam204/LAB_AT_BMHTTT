@@ -1,0 +1,8 @@
+{
+  "tested_python": "3.12.14",
+  "os": "Linux",
+  "machine": "x86_64",
+  "dependencies": "Python standard library only",
+  "real_data_status": "Only Appendix A Table A1 aggregates obtained; respondent-level data unavailable",
+  "demo_input_sha256": "6209624df46388711f7ae06163afa7048f8f4e762320fa7dd4519dbd282d9fd8"
+}

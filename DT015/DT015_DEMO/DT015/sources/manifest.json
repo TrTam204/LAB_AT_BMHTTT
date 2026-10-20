@@ -1,0 +1,19 @@
+{
+  "doi": "10.1093/cybsec/tyaf020",
+  "retrieval_date": "2026-10-12",
+  "article_url": "https://academic.oup.com/cybersecurity/article/11/1/tyaf020/8238597",
+  "license": "CC BY-NC 4.0. Liu, Shore, Yeoh, Jiang and Zeadally (2025). Oxford University Press.",
+  "html_note": "Publisher minimal HTML, title filled and three figure image URLs localized. Article body not translated or rewritten.",
+  "raw_delphi_link": "https://shorturl.at/Pny7E",
+  "csmpa_code_link": "https://shorturl.at/bjFdr",
+  "missing": "Original respondent-level Delphi data and original CSMPA code/database not obtained.",
+  "files": {
+    "figure_1.jpeg": "c3e52be3f47277fa076b282a0a4324a860b011007be3a155c26f3f931ecf2dc5",
+    "Appendix_A_D_original.docx": "6209624df46388711f7ae06163afa7048f8f4e762320fa7dd4519dbd282d9fd8",
+    "tyaf020_supplement_original.zip": "8337ba7d87a1d5a97b5cfb92a5052d4b69267645b59c47f1a334f364ee51d1a3",
+    "figure_3.jpeg": "a99532cb8909207092a1191d16d8685fb6a06313729de894a05521bb6cc7e9fa",
+    "CSMPA_User_Guide_original.pdf": "46cb11f975eb2d173edef53b38a58d606edbc99ac5fca21034cc4b65854be51e",
+    "Bai_bao_goc.html": "ea99f2876e5d10e2eda1acae22428bb4504d8d2be5beae3a0ef31833475708a4",
+    "figure_2.jpeg": "a98fb6a2cea2b79468bbbc8f484f1c0fb4062ed7aced553bf3858dc37a0cfe31"
+  }
+}

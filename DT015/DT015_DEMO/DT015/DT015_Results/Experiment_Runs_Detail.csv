@@ -1,0 +1,10 @@
+Run,Scenario,Windows rows,Linux rows,Known violations,Baseline findings,Improved findings,TP,FN,FP reviewed,Time
+1,Scenario_A_Original_Lab,37,18,3,3,3,Base:3 | Imp:3,Base:0 | Imp:0,Base:0 | Imp:0,Base:0.053ms | Imp:0.028ms
+1,Scenario_B_FullControl_Test,37,18,3,2,3,Base:2 | Imp:3,Base:1 | Imp:0,Base:0 | Imp:0,Base:0.045ms | Imp:0.026ms
+1,Scenario_C_NoViolation_Test,37,18,0,0,0,Base:0 | Imp:0,Base:0 | Imp:0,Base:0 | Imp:0,Base:0.042ms | Imp:0.024ms
+2,Scenario_A_Original_Lab,37,18,3,3,3,Base:3 | Imp:3,Base:0 | Imp:0,Base:0 | Imp:0,Base:0.074ms | Imp:0.061ms
+2,Scenario_B_FullControl_Test,37,18,3,2,3,Base:2 | Imp:3,Base:1 | Imp:0,Base:0 | Imp:0,Base:0.047ms | Imp:0.025ms
+2,Scenario_C_NoViolation_Test,37,18,0,0,0,Base:0 | Imp:0,Base:0 | Imp:0,Base:0 | Imp:0,Base:0.043ms | Imp:0.025ms
+3,Scenario_A_Original_Lab,37,18,3,3,3,Base:3 | Imp:3,Base:0 | Imp:0,Base:0 | Imp:0,Base:0.056ms | Imp:0.025ms
+3,Scenario_B_FullControl_Test,37,18,3,2,3,Base:2 | Imp:3,Base:1 | Imp:0,Base:0 | Imp:0,Base:0.043ms | Imp:0.025ms
+3,Scenario_C_NoViolation_Test,37,18,0,0,0,Base:0 | Imp:0,Base:0 | Imp:0,Base:0 | Imp:0,Base:0.041ms | Imp:0.024ms

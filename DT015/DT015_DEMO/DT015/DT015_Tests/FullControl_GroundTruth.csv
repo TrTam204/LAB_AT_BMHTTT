@@ -1,0 +1,4 @@
+OS,Path,Principal,Permission,Label,Source
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential\salary.txt,Everyone,FullControl,Violation,Controlled FullControl simulation
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential\salary.txt,NT AUTHORITY\Authenticated Users,"Modify, Synchronize",Violation,Original lab label
+Linux,/home/truong_tam_dt015/dt015_lab/Confidential/salary.txt,OTHER,rw-,Violation,Original lab label

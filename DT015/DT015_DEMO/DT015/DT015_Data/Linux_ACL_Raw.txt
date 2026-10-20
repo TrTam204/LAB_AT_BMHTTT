@@ -1,0 +1,42 @@
+# file: /home/truong_tam_dt015/dt015_lab/Normal
+# owner: truong_tam_dt015
+# group: truong_tam_dt015
+user::rwx
+group::r-x
+other::r-x
+
+# file: /home/truong_tam_dt015/dt015_lab/Normal/readme.txt
+# owner: truong_tam_dt015
+# group: truong_tam_dt015
+user::rw-
+group::r--
+other::r--
+
+# file: /home/truong_tam_dt015/dt015_lab/Confidential
+# owner: truong_tam_dt015
+# group: truong_tam_dt015
+user::rwx
+group::r-x
+other::r-x
+
+# file: /home/truong_tam_dt015/dt015_lab/Confidential/salary.txt
+# owner: truong_tam_dt015
+# group: truong_tam_dt015
+user::rw-
+group::---
+other::rw-
+
+# file: /home/truong_tam_dt015/dt015_lab/Scripts
+# owner: truong_tam_dt015
+# group: truong_tam_dt015
+user::rwx
+group::r-x
+other::r-x
+
+# file: /home/truong_tam_dt015/dt015_lab/Scripts/run.txt
+# owner: truong_tam_dt015
+# group: truong_tam_dt015
+user::rw-
+group::r--
+other::r--
+

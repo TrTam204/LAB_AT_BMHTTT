@@ -1,0 +1,10 @@
+﻿{
+    "reason":  "Sensitive salary file",
+    "forbidden_permission":  "Modify",
+    "resource":  "Confidential\\salary.txt",
+    "version":  "1.0",
+    "forbidden_groups":  [
+                             "Everyone",
+                             "NT AUTHORITY\\Authenticated Users"
+                         ]
+}

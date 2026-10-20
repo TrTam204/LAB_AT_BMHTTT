@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_AGGREGATE_CHECK_ONLY",
+  "input_sha256": "6209624df46388711f7ae06163afa7048f8f4e762320fa7dd4519dbd282d9fd8",
+  "python": "3.14.4",
+  "source_table": "Appendix A, Table A1",
+  "rows": 36,
+  "tier_counts": {
+    "Strategic": 6,
+    "Tactical": 11,
+    "Operational": 19
+  },
+  "passes_published_consensus_rule": 36,
+  "raw_ratings_available": false,
+  "full_reproduction": false,
+  "limitation": "Input is the published final table of retained processes. This does not re-estimate statistics or validate exclusions from raw data.",
+  "deterministic_checks": [
+    {
+      "run": 1,
+      "identical_to_first": true,
+      "elapsed_seconds": 0.02972
+    },
+    {
+      "run": 2,
+      "identical_to_first": true,
+      "elapsed_seconds": 0.029924
+    },
+    {
+      "run": 3,
+      "identical_to_first": true,
+      "elapsed_seconds": 0.031236
+    }
+  ]
+}

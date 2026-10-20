@@ -1,0 +1,6 @@
+=== DT015 CONTROLLED EXPERIMENT RUN 2/3 ===
+seed: not applicable (deterministic rule-based model)
+checksum_manifest: Experiment_Input_Checksums.json
+[Scenario_A_Original_Lab] Win=37, Lin=18, Known=3 | Baseline: findings=3, TP=3, FN=0, FP_reviewed=0, time=0.074ms | Improved: findings=3, TP=3, FN=0, FP_reviewed=0, time=0.061ms
+[Scenario_B_FullControl_Test] Win=37, Lin=18, Known=3 | Baseline: findings=2, TP=2, FN=1, FP_reviewed=0, time=0.047ms | Improved: findings=3, TP=3, FN=0, FP_reviewed=0, time=0.025ms
+[Scenario_C_NoViolation_Test] Win=37, Lin=18, Known=0 | Baseline: findings=0, TP=0, FN=0, FP_reviewed=0, time=0.043ms | Improved: findings=0, TP=0, FN=0, FP_reviewed=0, time=0.025ms

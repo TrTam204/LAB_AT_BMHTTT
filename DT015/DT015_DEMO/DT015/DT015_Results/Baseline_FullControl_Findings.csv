@@ -1,0 +1,3 @@
+OS,Path,Principal,Permission,Reason
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential\salary.txt,NT AUTHORITY\Authenticated Users,"Modify, Synchronize",Sensitive salary file
+Linux,/home/truong_tam_dt015/dt015_lab/Confidential/salary.txt,OTHER,rw-,Other users must not read or write sensitive salary data

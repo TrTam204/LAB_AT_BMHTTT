@@ -1,0 +1,38 @@
+OS,Path,Type,Owner,User,Permission,AccessType,IsInherited,InheritanceProtected
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Normal,Directory,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Administrators,FullControl,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Normal,Directory,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Administrators,268435456,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Normal,Directory,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\SYSTEM,FullControl,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Normal,Directory,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\SYSTEM,268435456,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Normal,Directory,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\Authenticated Users,"Modify, Synchronize",Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Normal,Directory,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\Authenticated Users,-536805376,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Normal,Directory,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Users,"ReadAndExecute, Synchronize",Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Normal,Directory,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Users,-1610612736,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Normal\readme.txt,File,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Administrators,FullControl,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Normal\readme.txt,File,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\SYSTEM,FullControl,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Normal\readme.txt,File,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\Authenticated Users,"Modify, Synchronize",Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Normal\readme.txt,File,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Users,"ReadAndExecute, Synchronize",Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential,Directory,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Administrators,FullControl,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential,Directory,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Administrators,268435456,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential,Directory,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\SYSTEM,FullControl,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential,Directory,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\SYSTEM,268435456,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential,Directory,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\Authenticated Users,"Modify, Synchronize",Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential,Directory,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\Authenticated Users,-536805376,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential,Directory,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Users,"ReadAndExecute, Synchronize",Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential,Directory,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Users,-1610612736,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential\salary.txt,File,LAPTOP-4LS2G19D\TRUONG TAM,Everyone,FullControl,Allow,False,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential\salary.txt,File,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Administrators,FullControl,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential\salary.txt,File,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\SYSTEM,FullControl,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential\salary.txt,File,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\Authenticated Users,"Modify, Synchronize",Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential\salary.txt,File,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Users,"ReadAndExecute, Synchronize",Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Scripts,Directory,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Administrators,FullControl,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Scripts,Directory,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Administrators,268435456,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Scripts,Directory,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\SYSTEM,FullControl,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Scripts,Directory,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\SYSTEM,268435456,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Scripts,Directory,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\Authenticated Users,"Modify, Synchronize",Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Scripts,Directory,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\Authenticated Users,-536805376,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Scripts,Directory,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Users,"ReadAndExecute, Synchronize",Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Scripts,Directory,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Users,-1610612736,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Scripts\run.txt,File,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Administrators,FullControl,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Scripts\run.txt,File,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\SYSTEM,FullControl,Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Scripts\run.txt,File,LAPTOP-4LS2G19D\TRUONG TAM,NT AUTHORITY\Authenticated Users,"Modify, Synchronize",Allow,True,False
+Windows,D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Scripts\run.txt,File,LAPTOP-4LS2G19D\TRUONG TAM,BUILTIN\Users,"ReadAndExecute, Synchronize",Allow,True,False

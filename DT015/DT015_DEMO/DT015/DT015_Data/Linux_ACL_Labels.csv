@@ -1,0 +1,2 @@
+Path,Principal,Permission,EffectivePermission,Label,Reason,GroundTruthSource
+/home/truong_tam_dt015/dt015_lab/Confidential/salary.txt,OTHER,rw-,rw-,Violation,OTHER has read/write permission on sensitive lab file,Controlled lab injection verified with getfacl

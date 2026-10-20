@@ -1,0 +1,38 @@
+{
+  "seed": "not applicable (deterministic rule-based model)",
+  "controlled_runs": 3,
+  "files": {
+    "windows_original_csv": {
+      "path": "DT015_Data/Windows_ACL_Dataset.csv",
+      "sha256": "c6e358b549c44f65977cedc64a7ba96c05cac74606373d22873e98032ed5663b"
+    },
+    "linux_original_csv": {
+      "path": "DT015_Data/Linux_ACL_Dataset.csv",
+      "sha256": "2765546f0057c3f1bc0a997ce046c9085dc0c708463bc2b4f8846bc408162991"
+    },
+    "windows_fullcontrol_csv": {
+      "path": "DT015_Tests/Windows_ACL_FullControl_Test.csv",
+      "sha256": "a135e7bbf8fe732e0f456371ba550bfe4945a924d581f9ae6dcca4b2fe4b23f9"
+    },
+    "windows_noviolation_csv": {
+      "path": "DT015_Tests/Windows_ACL_NoViolation_Test.csv",
+      "sha256": "56bd1c934dd59c2d823df783312767becbc74eccea1f81c64668065ad1d213f3"
+    },
+    "linux_noviolation_csv": {
+      "path": "DT015_Tests/Linux_ACL_NoViolation_Test.csv",
+      "sha256": "c043c2bf8c0b932e178485beb439676c3f3bc0b856f34a14fb004982b233942e"
+    },
+    "windows_policy_json": {
+      "path": "DT015_Data/policy.json",
+      "sha256": "0b338ff2432a7613ea9c864bcd31190f82d897f7c6243cb53c9413231b9df6f9"
+    },
+    "linux_policy_json": {
+      "path": "DT015_Data/Linux_ACL_Policy.json",
+      "sha256": "a4150626bcbe8f3f0e97b27772c462e12b86799af2cb12ec69a26ce72fad8dfe"
+    },
+    "fullcontrol_groundtruth_csv": {
+      "path": "DT015_Tests/FullControl_GroundTruth.csv",
+      "sha256": "8f250cf578e4af2a458a6cdad2d6f99b8856482a9ddd86583b77ba2ffe520baf"
+    }
+  }
+}

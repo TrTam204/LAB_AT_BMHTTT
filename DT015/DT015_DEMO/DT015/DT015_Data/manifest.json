@@ -1,0 +1,11 @@
+﻿{
+    "source":  "Self-created lab, collected using PowerShell",
+    "object_count":  6,
+    "checksum_algorithm":  "SHA256",
+    "checksum":  "C6E358B549C44F65977CEDC64A7BA96C05CAC74606373D22873E98032ED5663B",
+    "dataset_name":  "DT015 Windows ACL Lab",
+    "data_type":  "Synthetic lab configuration - real ACL capture",
+    "operating_system":  "Windows",
+    "record_count":  37,
+    "collected_at":  "2026-10-13T23:05:39.6052746+07:00"
+}

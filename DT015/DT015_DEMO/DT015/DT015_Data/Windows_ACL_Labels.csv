@@ -1,0 +1,3 @@
+﻿"Path","User","Permission","IsInherited","Label","Reason","ReviewMethod"
+"D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential\salary.txt","Everyone","Modify, Synchronize","False","Violation","Modify permission violates salary file policy","Manual policy review"
+"D:\A.monhoc\BC_AT_BMHTTT\DT015_Lab\Confidential\salary.txt","NT AUTHORITY\Authenticated Users","Modify, Synchronize","True","Violation","Modify permission violates salary file policy","Manual policy review"

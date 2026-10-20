@@ -1,0 +1,37 @@
+﻿process_id,name,mean,median,mode,sd,iqr,tier,consensus_from_published_aggregates
+SP.1,Executive Governance,4.8,5.0,5.0,0.42,0.0,Strategic,True
+SP.2,Cybersecurity Planning,4.4,4.5,5.0,0.7,1.0,Strategic,True
+SP.3,CSMS Review,4.1,4.0,4.0,0.32,0.0,Strategic,True
+SP.4,ESA Maintenance,3.9,4.0,4.0,0.74,0.75,Strategic,True
+SP.5,Information Sharing,3.8,4.0,4.0,0.79,1.0,Strategic,True
+SP.6,Cybersecurity Reporting,4.7,5.0,5.0,0.48,0.75,Strategic,True
+TP.1,Security Policy Management,3.7,4.0,4.0,0.48,0.75,Tactical,True
+TP.2,Security Resources Management,4.4,4.0,4.0,0.52,1.0,Tactical,True
+TP.3,Security Process Management,4.3,4.0,4.0,0.67,1.0,Tactical,True
+TP.4,Cyber Risk Management,4.7,5.0,5.0,0.48,0.75,Tactical,True
+TP.5,Supply Chain Management,4.6,5.0,5.0,0.52,1.0,Tactical,True
+TP.6,Technology Assets Security Records,4.2,4.0,4.0,0.42,0.0,Tactical,True
+TP.7,Acquisition Management of Security Products/Services,3.9,4.0,4.0,0.57,0.0,Tactical,True
+TP.8,Security Design and Delivery,4.3,4.0,4.0,0.67,1.0,Tactical,True
+TP.9,Cybersecurity Audits,4.7,5.0,5.0,0.48,0.75,Tactical,True
+TP.10,Identity & Access Management,4.5,4.5,5.0,0.53,1.0,Tactical,True
+TP.11,Awareness and Competence Training,4.1,4.0,4.0,0.74,0.75,Tactical,True
+OP.1,Security Monitoring,5.0,5.0,5.0,0.0,0.0,Operational,True
+OP.2,Incident Response,4.9,5.0,5.0,0.32,0.0,Operational,True
+OP.3,Malware Protection,4.7,5.0,5.0,0.48,0.75,Operational,True
+OP.4,Identity Administration,4.8,5.0,5.0,0.42,0.0,Operational,True
+OP.5,Access Administration,4.5,4.5,5.0,0.53,1.0,Operational,True
+OP.6,Privilege Administration,4.8,5.0,5.0,0.42,0.0,Operational,True
+OP.7,Network Zoning,4.3,4.0,4.0,0.67,1.0,Operational,True
+OP.8,Security Systems Operation,4.7,5.0,5.0,0.48,0.75,Operational,True
+OP.9,Vulnerability Management,4.6,5.0,5.0,0.52,1.0,Operational,True
+OP.10,Media Sanitisation,3.9,4.0,4.0,0.74,0.75,Operational,True
+OP.11,System Hardening,4.6,5.0,5.0,0.52,1.0,Operational,True
+OP.12,Data Forensics,4.1,4.0,4.0,0.74,0.75,Operational,True
+OP.13,Maintain Threat Intelligence,4.3,4.0,4.0,0.48,0.75,Operational,True
+OP.14,Personnel Administration,3.7,4.0,4.0,0.67,1.0,Operational,True
+OP.15,Certificate Administration,4.5,5.0,5.0,0.71,1.0,Operational,True
+OP.16,Third Party Remote Access,4.8,5.0,5.0,0.42,0.0,Operational,True
+OP.17,Backup and Recovery,4.7,5.0,5.0,0.48,0.75,Operational,True
+OP.18,Change Control,4.8,5.0,5.0,0.63,0.0,Operational,True
+OP.19,Data Protection,4.6,5.0,5.0,0.52,1.0,Operational,True
