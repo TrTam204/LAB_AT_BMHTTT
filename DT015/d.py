@@ -22,7 +22,7 @@ def run_simulated():
     source = ROOT / 'data' / 'delphi_ILLUSTRATIVE_ratings.csv'
     with source.open(newline='', encoding='utf-8-sig') as file:
         scores = [int(row['rating']) for row in csv.DictReader(file)
-                  if row['process_id'] == 'EX_SP5_ILLUSTRATIVE']
+    if row['process_id'] == 'EX_SP5_ILLUSTRATIVE']
     if len(scores) != 10 or any(score not in (1, 2, 3, 4, 5) for score in scores):
         raise ValueError('Vi du mo phong phai co dung 10 diem Likert tu 1 den 5.')
 

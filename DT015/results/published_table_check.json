@@ -17,17 +17,17 @@
     {
       "run": 1,
       "identical_to_first": true,
-      "elapsed_seconds": 0.034965
+      "elapsed_seconds": 0.031702
     },
     {
       "run": 2,
       "identical_to_first": true,
-      "elapsed_seconds": 0.03261
+      "elapsed_seconds": 0.030282
     },
     {
       "run": 3,
       "identical_to_first": true,
-      "elapsed_seconds": 0.033348
+      "elapsed_seconds": 0.037473
     }
   ]
 }
