@@ -2,7 +2,7 @@
 
 ## 1. Thông tin sinh viên và bài thực hành
 
-* **Họ và tên:** Nguyễn Hồ Trường Tâm
+* **Họ và tên:** Nguyễn Hồ Trường Tam
 * **Mã số sinh viên (MSSV):** 1150080156
 * **Lớp học phần:** 11CNPM2
 * **Môn học:** Thực hành An toàn và Bảo mật Hệ thống Thông tin
